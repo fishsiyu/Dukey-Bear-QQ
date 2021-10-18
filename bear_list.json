@@ -1,0 +1,18 @@
+{
+    "GROUP": {
+        "123455": {
+            "help": true,
+            "setstats": true,
+            "ckstats": true,
+            "test": true,
+            "roll": true,
+            "pun": true,
+            "bind": true,
+            "vote": true,
+            "stats": true,
+            "reply": true,
+            "fox": true
+        }
+    },
+    "USER": {}
+}
