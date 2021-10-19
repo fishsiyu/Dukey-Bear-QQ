@@ -1,7 +1,6 @@
 <p align="center">
-    <img width="120px" align="center" src="https://github.com/fishsiyu/Dukey-Bear-QQ/blob/main/doc/bear.jpg" alt="Hi，我是会说话的 Dukey Bear！"/>
+    <img width="120px" align="center" src="https://github.com/fishsiyu/Dukey-Bear-QQ/blob/main/doc/bear.jpg" title="Hi，我是会说话的 Dukey Bear！"/>
     <p align="center">Dukey Bear</p>
-    ![hi](https://github.com/fishsiyu/Dukey-Bear-QQ/blob/main/doc/bear.jpg)
 </p>
 
 ## 介绍
