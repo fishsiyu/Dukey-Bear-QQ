@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Discord](https://img.shields.io/discord/413200888010637313?label=Discord&logo=sar&style=for-the-badge)
+[![Discord](https://img.shields.io/discord/413200888010637313?label=Discord&logo=sar&style=for-the-badge)](https://discord.gg/animalroyale)
 
 </div>
 
