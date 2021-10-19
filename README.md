@@ -3,6 +3,10 @@
     <p align="center">Dukey Bear</p>
 </p>
 
+<p align="center">
+    ![discord group](https://img.shields.io/discord/413200888010637313?label=Discord&logo=sar&style=for-the-badge)
+</p>
+
 ## 介绍
 Dukey Bear 是一个在 QQ 上交互的游戏战绩查询机器人，其相关游戏的名称为： Super Animal Royale。
 
