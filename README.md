@@ -1,4 +1,4 @@
-一张bear图片
+<a align="center" href="https://github.com/fishsiyu/Dukey-Bear-QQ/blob/main/doc/bear.jpg"></a>
 ## Dukey-Bear-QQ
 Super Animal Royale 战绩查询机器人（还在编辑中...zzz）
 
