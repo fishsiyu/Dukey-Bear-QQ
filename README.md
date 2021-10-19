@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+    ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
     ![discord group](https://img.shields.io/discord/413200888010637313?label=Discord&logo=sar&style=for-the-badge)
 </p>
 
